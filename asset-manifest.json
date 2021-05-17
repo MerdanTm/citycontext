@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/citycontext/static/css/main.a3feb20c.chunk.css",
+    "main.js": "/citycontext/static/js/main.4a26df65.chunk.js",
+    "main.js.map": "/citycontext/static/js/main.4a26df65.chunk.js.map",
+    "runtime-main.js": "/citycontext/static/js/runtime-main.fc52a8ff.js",
+    "runtime-main.js.map": "/citycontext/static/js/runtime-main.fc52a8ff.js.map",
+    "static/js/2.d570b979.chunk.js": "/citycontext/static/js/2.d570b979.chunk.js",
+    "static/js/2.d570b979.chunk.js.map": "/citycontext/static/js/2.d570b979.chunk.js.map",
+    "index.html": "/citycontext/index.html",
+    "static/css/main.a3feb20c.chunk.css.map": "/citycontext/static/css/main.a3feb20c.chunk.css.map",
+    "static/js/2.d570b979.chunk.js.LICENSE.txt": "/citycontext/static/js/2.d570b979.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc52a8ff.js",
+    "static/js/2.d570b979.chunk.js",
+    "static/css/main.a3feb20c.chunk.css",
+    "static/js/main.4a26df65.chunk.js"
+  ]
+}
